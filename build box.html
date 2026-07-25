@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Build Your Own Box | Benelee Gift Boutique</title>
+
+<link rel="stylesheet" href="assets/css/style.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Cinzel:wght@500;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+</head>
+
+<body>
+
+<header>
+
+<div class="container">
+
+<div class="logo">
+
+<a href="index.html">
+
+<img src="assets/images/logo.png" alt="Benelee Gift Boutique">
+
+</a>
+
+</div>
+
+<nav>
+
+<ul>
+
+<li><a href="index.html">Home</a></li>
+
+<li><a href="shop.html">Shop</a></li>
+
+<li><a href="collections.html">Collections</a></li>
+
+<li><a class="active" href="build-box.html">Build Your Box</a></li>
+
+<li><a href="about.html">About</a></li>
+
+<li><a href="contact.html">Contact</a></li>
+
+</ul>
+
+</nav>
+
+</div>
+
+</header>
+
+<section class="page-banner">
+
+<h1>Build Your Own Gift Box</h1>
+
+<p>
+
+Create a personalised gift box for someone special.
+
+</p>
+
+</section>
+
+<section class="build-box-section">
+
+<div class="section-title">
+
+<span>Create Your Own</span>
+
+<h2>Design The Perfect Gift</h2>
+
+<p>
+
+Choose your favourite items below and we'll carefully package everything into one beautiful luxury gift box.
+
+</p>
+
+</div>
+
+<form id="giftForm">
+
+<h3>Customer Details</h3>
+
+<input type="text" id="customerName" placeholder="Your Full Name" required>
+
+<input type="text" id="recipientName" placeholder="Recipient Name" required>
+
+<input type="tel" id="phone" placeholder="Your Phone Number" required>
+
+<h3>Select Gift Box Size</h3>
+
+<select id="boxSize">
+
+<option>Mini Box - From R299</option>
+
+<option>Classic Box - From R499</option>
+
+<option>Premium Box - From R799</option>
+
+<option>Luxury Box - From R1299</option>
+
+</select>
+
+<h3>Choose Items</h3>
+
+<div class="checkbox-grid">
+
+<label><input type="checkbox" value="Chocolates"> Chocolates</label>
+
+<label><input type="checkbox" value="Flowers"> Fresh Flowers</label>
+
+<label><input type="checkbox" value="Perfume"> Perfume</label>
+
+<label><input type="checkbox" value="Body Lotion"> Body Lotion</label>
+
+<label><input type="checkbox" value="Bath Bombs"> Bath Bombs</label>
+
+<label><input type="checkbox" value="Scented Candle"> Scented Candle</label>
+
+<label><input type="checkbox" value="Coffee Mug"> Coffee Mug</label>
+
+<label><input type="checkbox" value="Teddy Bear"> Teddy Bear</label>
+
+<label><input type="checkbox" value="Wine"> Wine</label>
+
+<label><input type="checkbox" value="Sparkling Juice"> Sparkling Juice</label>
+
+<label><input type="checkbox" value="Balloons"> Balloons</label>
+
+<label><input type="checkbox" value="Greeting Card"> Greeting Card</label>
+
+</div>
+<h3>Personalised Message</h3>
+
+<textarea
+id="message"
+rows="5"
+placeholder="Write the message you'd like us to include inside the gift box..."></textarea>
+
+<h3>Gift Wrapping</h3>
+
+<select id="wrapping">
+
+<option>Luxury Gold Wrapping</option>
+
+<option>Rose Gold Wrapping</option>
+
+<option>Black Luxury Wrapping</option>
+
+<option>Birthday Theme</option>
+
+<option>Romantic Theme</option>
+
+<option>Baby Shower Theme</option>
+
+<option>Christmas Theme</option>
+
+</select>
+
+<h3>Delivery Option</h3>
+
+<select id="delivery">
+
+<option>Collect In Store</option>
+
+<option>Standard Delivery</option>
+
+<option>Express Delivery</option>
+
+</select>
+
+<h3>Your Budget</h3>
+
+<select id="budget">
+
+<option>R300 - R500</option>
+
+<option>R500 - R800</option>
+
+<option>R800 - R1 200</option>
+
+<option>R1 200 - R2 000</option>
+
+<option>Above R2 000</option>
+
+</select>
+
+<h3>Delivery Address</h3>
+
+<textarea
+id="address"
+rows="4"
+placeholder="Enter the delivery address"></textarea>
+
+<div class="summary-box">
+
+<h2>Order Summary</h2>
+
+<p>
+
+After clicking the button below, WhatsApp will open with all your selected options ready to send to Benelee Gift Boutique.
+
+</p>
+
+</div>
+
+<button
+type="button"
+class="btn"
+onclick="sendWhatsApp()">
+
+<i class="fab fa-whatsapp"></i>
+
+Order My Custom Gift Box
+
+</button>
+
+</form>
+
+</section>
+
+<footer>
+
+<div class="footer-container">
+
+<div class="footer-about">
+
+<img src="assets/images/logo.png" alt="Benelee Gift Boutique">
+
+<p>
+
+Every Box Tells A Story.
+
+Luxury Gift Boxes handcrafted with love.
+
+</p>
+
+</div>
+
+<div class="footer-links">
+
+<h3>Quick Links</h3>
+
+<ul>
+
+<li><a href="index.html">Home</a></li>
+
+<li><a href="shop.html">Shop</a></li>
+
+<li><a href="collections.html">Collections</a></li>
+
+<li><a href="contact.html">Contact</a></li>
+
+</ul>
+
+</div>
+
+<div class="footer-contact">
+
+<h3>Contact</h3>
+
+<p>📞 075 073 2008</p>
+
+<p>🇿🇦 South Africa</p>
+
+</div>
+
+</div>
+
+<div class="footer-bottom">
+
+<p>
+
+© 2026 Benelee Gift Boutique | Designed by Hlaks Web Wonders
+
+</p>
+
+</div>
+
+</footer>
+
+<script>
+
+function sendWhatsApp(){
+
+let items=[];
+
+document.querySelectorAll('input[type=checkbox]:checked').forEach(item=>{
+
+items.push(item.value);
+
+});
+
+let text=
+
+"🌸 *Benelee Gift Boutique - Custom Gift Box*%0A%0A"+
+
+"👤 Name: "+document.getElementById("customerName").value+"%0A"+
+
+"🎁 Recipient: "+document.getElementById("recipientName").value+"%0A"+
+
+"📞 Phone: "+document.getElementById("phone").value+"%0A%0A"+
+
+"📦 Box: "+document.getElementById("boxSize").value+"%0A"+
+
+"✨ Wrapping: "+document.getElementById("wrapping").value+"%0A"+
+
+"🚚 Delivery: "+document.getElementById("delivery").value+"%0A"+
+
+"💰 Budget: "+document.getElementById("budget").value+"%0A%0A"+
+
+"🛍 Items:%0A"+items.join(", ")+"%0A%0A"+
+
+"💌 Message:%0A"+document.getElementById("message").value+"%0A%0A"+
+
+"📍 Address:%0A"+document.getElementById("address").value;
+
+window.open(
+
+"https://wa.me/27750732008?text="+text,
+
+"_blank"
+
+);
+
+}
+
+</script>
+
+<script src="assets/js/script.js"></script>
+
+</body>
+
+</html>
