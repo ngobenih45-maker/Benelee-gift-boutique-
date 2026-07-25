@@ -1,0 +1,1005 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Benelee Gift Boutique | Every Box Tells A Story</title>
+
+    <meta name="description"
+        content="Luxury gift boxes for birthdays, anniversaries, baby showers, graduations, romantic occasions and more.">
+
+    <meta name="keywords"
+        content="Gift Boxes, Luxury Gifts, South Africa, Birthday Gifts, Romantic Gifts, Benelee Gift Boutique">
+
+    <link rel="stylesheet" href="assets/css/style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Cinzel:wght@500;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+</head>
+
+<body>
+
+<!-- Loader -->
+
+<div class="loader">
+
+    <div class="gift-loader">
+
+        🎁
+
+    </div>
+
+    <h2>Benelee Gift Boutique</h2>
+
+    <p>Every Box Tells A Story</p>
+
+</div>
+
+<!-- Header -->
+
+<header>
+
+<div class="container">
+
+<div class="logo">
+
+<a href="index.html">
+
+<img src="assets/images/logo.png" alt="Benelee Gift Boutique Logo">
+
+</a>
+
+</div>
+
+<nav>
+
+<ul>
+
+<li><a class="active" href="index.html">Home</a></li>
+
+<li><a href="shop.html">Shop</a></li>
+
+<li><a href="collections.html">Collections</a></li>
+
+<li><a href="build-box.html">Build Your Box</a></li>
+
+<li><a href="about.html">About</a></li>
+
+<li><a href="contact.html">Contact</a></li>
+
+</ul>
+
+</nav>
+
+<div class="icons">
+
+<a href="#"><i class="fas fa-search"></i></a>
+
+<a href="#"><i class="far fa-heart"></i></a>
+
+<a href="#"><i class="fas fa-shopping-bag"></i></a>
+
+</div>
+
+<div class="menu-toggle">
+
+<i class="fas fa-bars"></i>
+
+</div>
+
+</div>
+
+</header>
+
+<!-- Hero -->
+
+<section class="hero">
+
+<div class="hero-text">
+
+<span class="premium">
+
+Luxury Gift Boutique
+
+</span>
+
+<h1>
+
+Every Box<br>
+
+<span>Tells A Story</span>
+
+</h1>
+
+<p>
+
+Thoughtfully curated luxury gift boxes designed to celebrate every special moment. From birthdays and anniversaries to baby showers and corporate gifting, every box is wrapped with elegance and love.
+
+</p>
+
+<div class="hero-buttons">
+
+<a href="shop.html" class="btn">
+
+Shop Collection
+
+</a>
+
+<a href="https://wa.me/27750732008?text=Hi%20Benelee%20Gift%20Boutique,%20I'd%20like%20to%20place%20an%20order."
+
+class="btn-outline">
+
+<i class="fab fa-whatsapp"></i>
+
+Order on WhatsApp
+
+</a>
+
+</div>
+
+<div class="hero-stats">
+
+<div>
+
+<h2>100+</h2>
+
+<p>Gift Ideas</p>
+
+</div>
+
+<div>
+
+<h2>100%</h2>
+
+<p>Hand Packed</p>
+
+</div>
+
+<div>
+
+<h2>SA</h2>
+
+<p>Nationwide Delivery</p>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="hero-image">
+
+<img src="assets/images/hero-gift.png" alt="Luxury Gift Box">
+
+<div class="floating floating1"></div>
+
+<div class="floating floating2"></div>
+
+<div class="floating floating3"></div>
+
+</div>
+
+</section>
+
+<!-- Features -->
+
+<section class="features">
+
+<div class="feature-card">
+
+<i class="fas fa-gift"></i>
+
+<h3>Luxury Packaging</h3>
+
+<p>Beautifully wrapped gift boxes that create unforgettable first impressions.</p>
+
+</div>
+
+<div class="feature-card">
+
+<i class="fas fa-heart"></i>
+
+<h3>Made With Love</h3>
+
+<p>Every gift is carefully packed with attention to every detail.</p>
+
+</div>
+
+<div class="feature-card">
+
+<i class="fas fa-truck-fast"></i>
+
+<h3>Fast Delivery</h3>
+
+<p>Reliable delivery across South Africa.</p>
+
+</div>
+
+<div class="feature-card">
+
+<i class="fas fa-star"></i>
+
+<h3>Premium Quality</h3>
+
+<p>Only quality products are selected for every gift box.</p>
+
+</div>
+
+</section>
+
+<!-- Featured Collections -->
+
+<section class="collections">
+
+<div class="section-title">
+
+<h4>Our Collections</h4>
+
+<h2>Find The Perfect Gift</h2>
+
+<p>
+
+Luxury collections designed for every occasion.
+
+</p>
+
+</div>
+
+<div class="collection-grid">
+
+<div class="collection">
+
+<img src="assets/images/birthday.jpg">
+
+<div class="overlay">
+
+<h3>Birthday</h3>
+
+<a href="shop.html">Shop Now</a>
+
+</div>
+
+</div>
+
+<div class="collection">
+
+<img src="assets/images/romantic.jpg">
+
+<div class="overlay">
+
+<h3>Romantic</h3>
+
+<a href="shop.html">Shop Now</a>
+
+</div>
+
+</div>
+
+<div class="collection">
+
+<img src="assets/images/mothers-day.jpg">
+
+<div class="overlay">
+
+<h3>Mother's Day</h3>
+
+<a href="shop.html">Shop Now</a>
+
+</div>
+
+</div>
+
+<div class="collection">
+
+<img src="assets/images/luxury.jpg">
+
+<div class="overlay">
+
+<h3>Luxury</h3>
+
+<a href="shop.html">Shop Now</a>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+<!-- ========================================= -->
+<!-- FEATURED GIFT BOXES -->
+<!-- ========================================= -->
+
+<section class="featured-products">
+
+    <div class="section-title">
+        <span>Our Best Sellers</span>
+        <h2>Luxury Gift Boxes</h2>
+        <p>Every box is carefully curated to make every occasion unforgettable.</p>
+    </div>
+
+    <div class="product-grid">
+
+        <!-- Mini Surprise -->
+        <div class="product-card">
+
+            <span class="product-badge">Popular</span>
+
+            <img src="assets/images/products/mini-surprise.jpg" alt="Mini Surprise Box">
+
+            <div class="product-info">
+
+                <h3>Mini Surprise Box</h3>
+
+                <p>
+                    Chocolates, sweets, teddy bear and personalised gift card.
+                </p>
+
+                <h4>R299</h4>
+
+                <div class="product-buttons">
+
+                    <a href="shop.html" class="btn-small">
+                        View Details
+                    </a>
+
+                    <a href="https://wa.me/27750732008?text=Hi%20Benelee%20Gift%20Boutique,%20I'd%20like%20to%20order%20the%20Mini%20Surprise%20Box%20(R299)." class="btn-whatsapp">
+
+                        <i class="fab fa-whatsapp"></i>
+
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <!-- Classic -->
+
+        <div class="product-card">
+
+            <img src="assets/images/products/classic-box.jpg" alt="Classic Gift Box">
+
+            <div class="product-info">
+
+                <h3>Classic Gift Box</h3>
+
+                <p>
+                    Mug, candle, chocolates, snacks and greeting card.
+                </p>
+
+                <h4>R499</h4>
+
+                <div class="product-buttons">
+
+                    <a href="shop.html" class="btn-small">
+                        View Details
+                    </a>
+
+                    <a href="https://wa.me/27750732008?text=Hi%20I'd%20like%20to%20order%20the%20Classic%20Gift%20Box%20(R499)." class="btn-whatsapp">
+
+                        <i class="fab fa-whatsapp"></i>
+
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <!-- Premium -->
+
+        <div class="product-card">
+
+            <span class="product-badge premium">
+                Premium
+            </span>
+
+            <img src="assets/images/products/premium-box.jpg" alt="Premium Gift Box">
+
+            <div class="product-info">
+
+                <h3>Premium Gift Box</h3>
+
+                <p>
+                    Perfume, teddy, candle, chocolates and personalised message.
+                </p>
+
+                <h4>R799</h4>
+
+                <div class="product-buttons">
+
+                    <a href="shop.html" class="btn-small">
+                        View Details
+                    </a>
+
+                    <a href="https://wa.me/27750732008?text=Hi%20I'd%20like%20to%20order%20the%20Premium%20Gift%20Box%20(R799)." class="btn-whatsapp">
+
+                        <i class="fab fa-whatsapp"></i>
+
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <!-- Luxury -->
+
+        <div class="product-card">
+
+            <span class="product-badge luxury">
+                Luxury
+            </span>
+
+            <img src="assets/images/products/luxury-box.jpg" alt="Luxury Gift Box">
+
+            <div class="product-info">
+
+                <h3>Luxury Gift Box</h3>
+
+                <p>
+                    Luxury perfume, skincare, flowers, chocolates and premium wrapping.
+                </p>
+
+                <h4>R1,299</h4>
+
+                <div class="product-buttons">
+
+                    <a href="shop.html" class="btn-small">
+                        View Details
+                    </a>
+
+                    <a href="https://wa.me/27750732008?text=Hi%20I'd%20like%20to%20order%20the%20Luxury%20Gift%20Box%20(R1299)." class="btn-whatsapp">
+
+                        <i class="fab fa-whatsapp"></i>
+
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- ========================================= -->
+<!-- BUILD YOUR OWN BOX -->
+<!-- ========================================= -->
+
+<section class="custom-box">
+
+    <div class="custom-content">
+
+        <span>Create Something Unique</span>
+
+        <h2>Build Your Own Gift Box</h2>
+
+        <p>
+
+            Choose your own chocolates, flowers, perfumes, candles,
+            mugs, teddy bears and personalised gifts.
+
+        </p>
+
+        <a href="build-box.html" class="btn">
+
+            Build My Gift Box
+
+        </a>
+
+    </div>
+    <!-- ========================================= -->
+<!-- WHY CHOOSE US -->
+<!-- ========================================= -->
+
+<section class="why-us">
+
+    <div class="section-title">
+
+        <span>Why Choose Us</span>
+
+        <h2>Experience Luxury Gifting</h2>
+
+        <p>
+            Every gift box is carefully crafted to create unforgettable memories.
+        </p>
+
+    </div>
+
+    <div class="why-grid">
+
+        <div class="why-card">
+
+            <i class="fas fa-gem"></i>
+
+            <h3>Premium Quality</h3>
+
+            <p>
+                Every product is carefully selected to ensure luxury and elegance.
+            </p>
+
+        </div>
+
+        <div class="why-card">
+
+            <i class="fas fa-heart"></i>
+
+            <h3>Made With Love</h3>
+
+            <p>
+                Every gift is hand packed with attention to every detail.
+            </p>
+
+        </div>
+
+        <div class="why-card">
+
+            <i class="fas fa-truck-fast"></i>
+
+            <h3>Fast Delivery</h3>
+
+            <p>
+                We deliver beautiful gift boxes across South Africa.
+            </p>
+
+        </div>
+
+        <div class="why-card">
+
+            <i class="fas fa-comments"></i>
+
+            <h3>WhatsApp Ordering</h3>
+
+            <p>
+                Ordering is quick and simple using WhatsApp.
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- ========================================= -->
+<!-- COUNTERS -->
+<!-- ========================================= -->
+
+<section class="counter-section">
+
+    <div class="counter">
+
+        <h2>500+</h2>
+
+        <p>Happy Customers</p>
+
+    </div>
+
+    <div class="counter">
+
+        <h2>100+</h2>
+
+        <p>Luxury Gift Ideas</p>
+
+    </div>
+
+    <div class="counter">
+
+        <h2>99%</h2>
+
+        <p>Customer Satisfaction</p>
+
+    </div>
+
+    <div class="counter">
+
+        <h2>24/7</h2>
+
+        <p>WhatsApp Support</p>
+
+    </div>
+
+</section>
+
+<!-- ========================================= -->
+<!-- TESTIMONIALS -->
+<!-- ========================================= -->
+
+<section class="testimonials">
+
+<div class="section-title">
+
+<span>Testimonials</span>
+
+<h2>What Our Customers Say</h2>
+
+</div>
+
+<div class="testimonial-container">
+
+<div class="testimonial">
+
+★★★★★
+
+<p>
+
+"The gift box was absolutely beautiful. The presentation was amazing!"
+
+</p>
+
+<h4>
+
+— Sarah M.
+
+</h4>
+
+</div>
+
+<div class="testimonial">
+
+★★★★★
+
+<p>
+
+"I ordered for my girlfriend and she loved every single item."
+
+</p>
+
+<h4>
+
+— Michael N.
+
+</h4>
+
+</div>
+
+<div class="testimonial">
+
+★★★★★
+
+<p>
+
+"Excellent customer service and fast delivery."
+
+</p>
+
+<h4>
+
+— Lerato K.
+
+</h4>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ========================================= -->
+<!-- GALLERY -->
+<!-- ========================================= -->
+
+<section class="gallery">
+
+<div class="section-title">
+
+<span>Gallery</span>
+
+<h2>Gift Inspiration</h2>
+
+</div>
+
+<div class="gallery-grid">
+
+<img src="assets/images/gallery/gallery1.jpg" alt="">
+
+<img src="assets/images/gallery/gallery2.jpg" alt="">
+
+<img src="assets/images/gallery/gallery3.jpg" alt="">
+
+<img src="assets/images/gallery/gallery4.jpg" alt="">
+
+<img src="assets/images/gallery/gallery5.jpg" alt="">
+
+<img src="assets/images/gallery/gallery6.jpg" alt="">
+
+</div>
+
+</section>
+
+<!-- ========================================= -->
+<!-- NEWSLETTER -->
+<!-- ========================================= -->
+
+<section class="newsletter">
+
+<div class="newsletter-content">
+
+<h2>
+
+Stay Inspired
+
+</h2>
+
+<p>
+
+Subscribe to receive exclusive offers, new collections and gifting inspiration.
+
+</p>
+
+<form>
+
+<input
+type="email"
+placeholder="Enter your email">
+
+<button>
+
+Subscribe
+
+</button>
+
+</form>
+
+</div>
+
+</section>
+
+<!-- ========================================= -->
+<!-- CALL TO ACTION -->
+<!-- ========================================= -->
+
+<section class="cta">
+
+<h2>
+
+Every Box Tells A Story
+
+</h2>
+
+<p>
+
+Celebrate every occasion with a luxury gift from Benelee Gift Boutique.
+
+</p>
+
+<a href="shop.html" class="btn">
+
+Shop Now
+
+</a>
+
+<a href="https://wa.me/27750732008?text=Hi%20Benelee%20Gift%20Boutique,%20I'd%20like%20to%20place%20an%20order." class="btn-outline">
+
+<i class="fab fa-whatsapp"></i>
+
+WhatsApp Us
+
+</a>
+
+</section>
+<!-- ========================================= -->
+<!-- CONTACT SECTION -->
+<!-- ========================================= -->
+
+<section class="contact-preview">
+
+    <div class="section-title">
+
+        <span>Get In Touch</span>
+
+        <h2>We're Here To Help</h2>
+
+        <p>
+            Need help choosing the perfect gift? Contact Benelee Gift Boutique today.
+        </p>
+
+    </div>
+
+    <div class="contact-grid">
+
+        <div class="contact-card">
+
+            <i class="fas fa-phone"></i>
+
+            <h3>Call Us</h3>
+
+            <p>075 073 2008</p>
+
+        </div>
+
+        <div class="contact-card">
+
+            <i class="fab fa-whatsapp"></i>
+
+            <h3>WhatsApp</h3>
+
+            <p>Chat with us anytime.</p>
+
+        </div>
+
+        <div class="contact-card">
+
+            <i class="fas fa-map-marker-alt"></i>
+
+            <h3>Location</h3>
+
+            <p>South Africa</p>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- ========================================= -->
+<!-- FOOTER -->
+<!-- ========================================= -->
+
+<footer>
+
+<div class="footer-container">
+
+<div class="footer-about">
+
+<img src="assets/images/logo.png" alt="Benelee Gift Boutique">
+
+<p>
+
+Every Box Tells A Story.
+
+We create luxury gift boxes that turn every celebration into an unforgettable memory.
+
+</p>
+
+</div>
+
+<div class="footer-links">
+
+<h3>Quick Links</h3>
+
+<ul>
+
+<li><a href="index.html">Home</a></li>
+
+<li><a href="shop.html">Shop</a></li>
+
+<li><a href="collections.html">Collections</a></li>
+
+<li><a href="build-box.html">Build Your Box</a></li>
+
+<li><a href="about.html">About</a></li>
+
+<li><a href="contact.html">Contact</a></li>
+
+</ul>
+
+</div>
+
+<div class="footer-links">
+
+<h3>Gift Collections</h3>
+
+<ul>
+
+<li>Birthday</li>
+
+<li>Romantic</li>
+
+<li>Graduation</li>
+
+<li>Baby Shower</li>
+
+<li>Mother's Day</li>
+
+<li>Luxury Collection</li>
+
+</ul>
+
+</div>
+
+<div class="footer-contact">
+
+<h3>Contact</h3>
+
+<p>
+
+<i class="fas fa-phone"></i>
+
+075 073 2008
+
+</p>
+
+<p>
+
+<i class="fab fa-whatsapp"></i>
+
+WhatsApp Orders
+
+</p>
+
+<p>
+
+<i class="fas fa-envelope"></i>
+
+info@beneleegiftboutique.co.za
+
+</p>
+
+<div class="social-icons">
+
+<a href="#"><i class="fab fa-facebook-f"></i></a>
+
+<a href="#"><i class="fab fa-instagram"></i></a>
+
+<a href="#"><i class="fab fa-tiktok"></i></a>
+
+<a href="#"><i class="fab fa-pinterest"></i></a>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="footer-bottom">
+
+<p>
+
+© 2026 Benelee Gift Boutique. All Rights Reserved.
+
+</p>
+
+<p>
+
+Designed by <strong>Hlaks Web Wonders</strong>
+
+</p>
+
+</div>
+
+</footer>
+
+<!-- Floating WhatsApp Button -->
+
+<a href="https://wa.me/27750732008?text=Hi%20Benelee%20Gift%20Boutique,%20I'd%20like%20to%20place%20an%20order."
+
+class="floating-whatsapp"
+
+target="_blank">
+
+<i class="fab fa-whatsapp"></i>
+
+</a>
+
+<!-- Scroll To Top -->
+
+<button id="scrollTop">
+
+<i class="fas fa-arrow-up"></i>
+
+</button>
+
+<!-- JavaScript -->
+
+<script src="assets/js/script.js"></script>
+
+</body>
+
+</html>
